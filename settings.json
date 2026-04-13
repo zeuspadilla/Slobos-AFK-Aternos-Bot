@@ -29,21 +29,12 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 1200,
+      "repeat-delay": 300,
       "messages": [
-        "+ WELCOME TO THE SERVER! 
-
-+ Hey there, adventurer!
-+ We’re glad to have you here. Get ready to explore, make friends, and have an awesome time!
-
-+ Be respectful
-+ Have fun
-+ Follow the rules
-
-+ If you need help, don’t hesitate to ask!
-
-+ Enjoy your stay and let the adventure begin!",
-      
+        "§aWelcome to Immortal SMP join us here and let's advanture",
+        "§astay hydrated",
+        "§aEnjoy your stay and become IMMORTAL!",
+        "§aInvite your friend and grow stronger together!",
       ]
     },
     "chat-log": true,
