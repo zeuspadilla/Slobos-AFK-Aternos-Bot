@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "",
     "password": "",
     "type": "offline"
   },
@@ -29,17 +29,27 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 1200,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "+ WELCOME TO THE SERVER! 
+
++ Hey there, adventurer!
++ We’re glad to have you here. Get ready to explore, make friends, and have an awesome time!
+
++ Be respectful
++ Have fun
++ Follow the rules
+
++ If you need help, don’t hesitate to ask!
+
++ Enjoy your stay and let the adventure begin!",
+      
       ]
     },
     "chat-log": true,
-    "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000
+    "auto-reconnect": false,
+    "auto-reconnect-delay": "",
+    "max-reconnect-delay": "",
   },
   "movement": {
     "enabled": true,
